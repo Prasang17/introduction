@@ -1,3 +1,3 @@
 # Climatic changes
 
-It is a rainy day
+It is a hot day
